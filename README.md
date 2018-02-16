@@ -1,4 +1,4 @@
-# Radius Data Science Coding Challenge 1: Data Analysis
+# Data Analysis of US businesses
 
 We examined the a dataset which contains a million of records of businesses, which are representative of the distribution of companies in US based on their revenues, number of employees etc. Each company is characterized by a _category_code_. Further details on the file are discussed [here](https://github.com/RadiusIntelligence/datascience-cc-1).
 
